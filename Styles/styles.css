@@ -162,7 +162,7 @@ img { display: block; }
 .hero {
   min-height: 100vh;
   background: linear-gradient(rgba(0,0,0,0.48), rgba(0,0,0,0.48)),
-              url('../images/hero.avif') center/cover no-repeat;
+              url('https://images.pexels.com/photos/1025401/pexels-photo-1025401.jpeg') center/cover no-repeat;
   display: flex;
   align-items: center;
   text-align: center;
