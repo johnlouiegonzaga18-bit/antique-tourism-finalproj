@@ -1,7 +1,4 @@
-/* =============================================
-   ANTIQUE TOURISM — Shared Stylesheet
-   Ocean / Blue tone theme
-   ============================================= */
+
 
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=DM+Sans:wght@300;400;500&display=swap');
 
@@ -197,7 +194,7 @@ img { display: block; }
 .sub-hero {
   height: 55vh;
   background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
-              url('../images/hero.avif') center/cover no-repeat;
+              url('https://images.pexels.com/photos/1025401/pexels-photo-1025401.jpeg') center/cover no-repeat;
   display: flex;
   align-items: center;
   text-align: center;
